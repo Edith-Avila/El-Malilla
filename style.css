@@ -1,0 +1,89 @@
+
+body{
+    font-family: "Nanum Gothic", sans-serif;
+    font-size: 19px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    margin-bottom: 30px;
+    background-color: #a7bde7;
+    padding: 5px;
+    border-radius: 20px;
+    font-family: "DM Serif Text", serif;
+    font-size: 26px;
+}
+
+p{
+    text-align: justify;
+    margin: 10px;
+}
+
+h2, h3 {
+    margin: 10px;
+    text-align: justify;
+}
+
+ul, ol{
+    padding-left: 25px;
+    line-height: 20px;
+    margin: 30px;
+    text-align: justify;
+}
+
+input{
+    width: 20%;
+    padding: 10px;
+    margin: 1px;
+    border-radius: 8px;
+    border: 2px solid rgb(13, 26, 71);
+}
+
+button{
+    width: 10%;
+    padding: 10px;
+    margin: 1px;
+    border: 2px solid rgb(13, 26, 71);
+    border-radius: 8px;
+    background-color: rgb(142, 149, 163);
+    font-family: "Nanum Gothic", sans-serif;;
+    font-size: 17px;
+}
+
+#El-mali2 {
+    width: 600px;
+}
+
+#El-mali1{
+    width: 400px;
+}
+
+#ÑEROSTARS{
+    width: 300px;
+    float: right;
+    margin-right: 200px;
+}
+ 
+#Final {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #a7bde7;
+    border-radius: 20px;
+    text-align: justify;
+}
+
+#Redes img{
+    width: 46px;
+    height: 46px;
+}
+
+#Final footer{
+    margin-top: 25px;
+    padding: 10px;
+    background-color: #6b85b6;
+    border-radius: 20px;
+}
